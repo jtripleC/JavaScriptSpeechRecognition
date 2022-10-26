@@ -1,0 +1,3 @@
+Una API que emplea la funcionalidad de reconocimiento de voz de JavaScript, para luego convertir esa voz a texto legible. La API también cuenta con comandos de respuesta predeerminada a ciertas frases o expresiones como por ejemplo, la hora, saludar, decir su nombre, edad, contar chistes, etc, esto lo hace que tenga un enorme potencial de crecimiento pues la lista de preguntas y respuestas predetermindas sin duda alguna tiene el potencial de crecer exponencialmente.
+Hay algunos otros archivos pues el proyecto está en proceso de convertirse en una app para moviles luego de implementar muchos más comandos que lo hagan mucho más funcional.
+El código de fondo esta en la BRANCH denominada "master".
